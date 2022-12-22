@@ -1,0 +1,8 @@
+/text-1.txt 
+/text-2.txt 
+
+/groupBy.sql
+/groupByAggregation.sql
+
+# auto-generated files
+auto-gen-files/*.txt
